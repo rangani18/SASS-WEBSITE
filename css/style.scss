@@ -7,7 +7,7 @@ $asbg-color: #f5f0e9;
 $wbg-color: #10495c;
 $shover-color:#975f11;
 $footerbg-color:#ede1d0;
-$fh-color:#10495c;
+$fotter-color:#10495c;
 $danzar-color:red;
 
 * {
@@ -629,7 +629,7 @@ header {
     .footer-item {
         h3 {
             font-size: 15px;
-            color: $fh-color;
+            color: $fotter-color;
             margin-bottom: 10px;
         }
 
